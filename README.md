@@ -1,5 +1,9 @@
 # KIU-MIMI Receipt Generator
 
+![Live](https://img.shields.io/badge/demo-live-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+
 <p align="center">
   <img src="KIU-MIMI-Logo.jpeg" alt="KIU-MIMI Logo" width="120" style="border-radius: 50%;">
 </p>
