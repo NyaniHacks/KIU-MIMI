@@ -1,7 +1,6 @@
 # KIU-MIMI Receipt Generator
 
 ![Live](https://img.shields.io/badge/demo-live-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 <p align="center">
