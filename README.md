@@ -1,7 +1,7 @@
 
 ---
 
-# 🧾 KIU-MIMI Receipt Generator
+# KIU-MIMI Receipt Generator
 
 <p align="center">
   <img src="KIU-MIMI-Logo.jpeg" alt="KIU-MIMI Logo" width="120" style="border-radius: 50%;">
