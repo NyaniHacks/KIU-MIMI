@@ -1,4 +1,3 @@
-Here’s a **polished, professional, copy-paste ready README** — upgraded for clarity, impact, and portfolio quality:
 
 ---
 
